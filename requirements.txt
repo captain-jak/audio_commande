@@ -1,0 +1,11 @@
+numpy
+sounddevice
+vosk
+TTS
+fabric
+utils
+piper-tts
+pathvalidate
+pathlib
+subprocess
+

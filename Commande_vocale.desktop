@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Commande vocale
+Comment= Lance la commande vocale
+#Exec=xfce4-terminal --hold -e "./main.py distant" 
+Exec=xfce4-terminal --hold -e "/home/enjoy/dev/Reconnaissance_vocale/audio_commande/lancer_commande_vocale.sh"
+Path=/home/enjoy/dev/Reconnaissance_vocale/audio_commande/
+Icon=utilities-terminal    # ou python ou une icône de ton choix
+Terminal=true              # mettre true si ton script affiche du texte dans un terminal
+                                       # mettre false si c'est une interface graphique (Tkinter, PyQt, etc.)
+Categories=Utility;
+StartupNotify=true

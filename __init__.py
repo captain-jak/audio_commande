@@ -1,0 +1,1 @@
+# Mettre dans ce fichier les fichiers devant etre executés avnt les import  ---  a confirmer avec chatgpt
