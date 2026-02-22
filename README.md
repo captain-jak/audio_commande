@@ -9,9 +9,9 @@ Système de reconnaissance vocale pour l'exécution de commandes automatisées. 
 
 ## 🛠️ Installation
 * **Prerequis python 3.10
-* python3 --version
+	python3 --version
 * **Environnement virtuel venv_virtuel
-* python3 -m venv venv_clean
+	python3 -m venv venv_clean
 * source venv_clean/bin/activate
 
 1. **Cloner le dépôt** :
