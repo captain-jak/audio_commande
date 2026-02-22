@@ -11,6 +11,7 @@ Système de reconnaissance vocale pour l'exécution de commandes automatisées. 
 * **Prerequis python 3.10<br>
 python3 --version  
 * **Environnement virtuel venv_virtuel<br>
+pip install sounddevice vosk mpv fabric
 python3 -m venv venv_clean  
 source venv_clean/bin/activate  
 
