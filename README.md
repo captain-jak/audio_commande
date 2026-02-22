@@ -8,9 +8,9 @@ Système de reconnaissance vocale pour l'exécution de commandes automatisées. 
 * **Exécution** : Lancement de scripts ou de fonctions basés sur la voix.
 
 ## 🛠️ Installation
-# Prerequis python 3.10
+- Prerequis python 3.10
 python3 --version
-# Environnement virtuel venv_virtuel
+-Environnement virtuel venv_virtuel
 python3 -m venv venv_clean
 source venv_clean/bin/activate
 
