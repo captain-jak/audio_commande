@@ -23,7 +23,10 @@ git commit -m "Initial commit : projet reconnaissance vocale"
 # Créer la branche principale (main)
 git branch -M main
 Lier votre dossier local au dépôt GitHub
-# Remplacez "VOTRE_NOM_UTILISATEUR" par votre vrai pseudo GitHub
-git remote add origin https://github.com/VOTRE_NOM_UTILISATEUR/audio_commande.git
+# Ajouter l'adresse de connexion de github
+git remote add origin https://github.com/captain_jak/audio_commande.git
+# la definir par defaut
+git remote set-url origin git@github.com:captain-jak/audio_commande.git
+
 # Envoyer le code vers GitHub
 git push -u origin main
