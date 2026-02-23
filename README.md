@@ -15,7 +15,7 @@ python3 -m venv venv_clean<br>
 source venv_clean/bin/activate<br>
 pip3 install sounddevice vosk mpv fabric
 
-1. **Cloner le dépôt** : ihihihiyyyhhhhh
+1. **Cloner le dépôt** :
    ```bash
    git clone [https://github.com/VOTRE_NOM_UTILISATEUR/audio_commande.git](https://github.com/VOTRE_NOM_UTILISATEUR/audio_commande.git)
    cd audio_commande
